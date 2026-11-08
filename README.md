@@ -1,108 +1,108 @@
-# 🎨 Med Aziz Fadhel | Creative Web Designer
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Web+Designer+%26+Developer;UI%2FUX+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
-</div>
 
----
+<img src="assets/hueco-mundo-pixel-art.gif" width="100%" alt="Pixel-art scene with a mysterious character in a dark fantasy setting" />
 
-## 🌟 About Me
+# `MED AZIZ FADHEL`
 
-<img align="right" alt="Design GIF" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+### SOFTWARE ENGINEERING STUDENT · CYBERSECURITY ENTHUSIAST
 
-I'm a software engineering student whose passionate about cybersecurity and infrastructures 
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=bold&size=18&duration=2800&pause=900&color=C9D1D9&center=true&vCenter=true&width=650&lines=ENTERING+THE+WORLD+OF+CODE...;BUILDING+SYSTEMS+AND+SECURING+THEM;LEARN.+BUILD.+BREAK.+IMPROVE." alt="Typing SVG" />
 
-### 🎯 What I Do
-- **Web Design**: Creating stunning, user-centric designs
-- **Frontend Development**: Bringing designs to life with code
-- **UI/UX**: Crafting seamless user experiences
-- **Brand Identity**: Visual storytelling through design
-
----
-
-## 💼 Current Focus
-
-<table>
-<tr>
-  <td>🔥 **Current Project**</td>
-  <td>SecureShip </td>
-</tr>
-<tr>
-  <td>🚀 **Learning**</td>
-  <td>[![My Skills](https://skillicons.dev/icons?i=python,java,springboot,mysql,postgresql,aws,linux,terraform,githubactions,kubernetes,docker,git,github)](https://skillicons.dev)</td>
-</tr>
-<tr>
-  <td>📍 **Location**</td>
-  <td>Tunisia</td>
-</tr>
-<tr>
-  <td>💡 **Available For**</td>
-  <td>Available for internships and remote work</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Design Arsenal
-
-### Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
-### Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-
----
-
-## 📊 Design Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Archnemesis69&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archnemesis69&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
----
-
-## 🎨 Featured Projects
-
-<div align="center">
-  <a href="[Your project1Link]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Archnemesis69&repo=[Your project1Repo]&theme=radical" />
-  </a>
-  <a href="[Your project2Link]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Archnemesis69&repo=[Your project2Repo]&theme=radical" />
-  </a>
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([Your website])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedaziz.fadhel@etudiant-enit.utm0tn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](aziz-fadhel-50102a382?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)]([Your dribbble])
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)]([Your behance])
+![Pixel theme](https://img.shields.io/badge/REALM-HUECO_MUNDO-171923?style=for-the-badge&labelColor=303447)
+![Status](https://img.shields.io/badge/STATUS-TRAINING-9DA7C2?style=for-the-badge&labelColor=171923)
 
 </div>
 
 ---
 
-## ✨ Fun Fact
-> 💡 [Your funFact]
+## `01 // ABOUT ME`
+
+```text
+╔══════════════════════════════════════════════════════╗
+║  PLAYER : MED AZIZ FADHEL                            ║
+║  CLASS  : SOFTWARE ENGINEERING STUDENT               ║
+║  BASE   : TUNISIA                                    ║
+║  PATH   : SOFTWARE ENGINEERING / CYBERSECURITY       ║
+║  STATUS : LEARNING • BUILDING • EXPLORING            ║
+╚══════════════════════════════════════════════════════╝
+```
+
+I'm a software engineering student interested in understanding how systems work — from writing applications to exploring the infrastructure and security behind them.
+
+I enjoy learning by building projects, experimenting with technologies, and solving technical problems.
+
+## `02 // CURRENT MISSION`
+
+| MISSION | OBJECTIVE |
+|:--|:--|
+| **SecureShip** | Current project |
+| **Software Engineering** | Strengthen development and problem-solving skills |
+| **Cybersecurity** | Explore networking, Linux, and security fundamentals |
+| **Infrastructure** | Learn how modern systems are deployed and operated |
+
+## `03 // TECHNICAL ABILITIES`
+
+**Languages & Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,spring" alt="Java, Python, C, HTML, CSS, JavaScript and Spring" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="MySQL, PostgreSQL and SQLite" />
+</p>
+
+**Systems, Tools & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,git,github,githubactions" alt="Linux, Docker, Kubernetes, Terraform, AWS, Git, GitHub and GitHub Actions" />
+</p>
+
+## `04 // PROJECT ARCHIVE`
+
+<div align="center">
+
+[![SecureShip](https://img.shields.io/badge/PROJECT-SecureShip-24283B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/archnemesis69)
+
+</div>
+
+More projects and experiments will be added here as they become ready to share.
+
+## `05 // GITHUB ACTIVITY`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=archnemesis69&show_icons=true&hide_border=true&bg_color=171923&title_color=C9D1D9&text_color=9DA7C2&icon_color=8FA3BF" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archnemesis69&layout=compact&hide_border=true&bg_color=171923&title_color=C9D1D9&text_color=9DA7C2" alt="Most used languages" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=archnemesis69&hide_border=true&background=171923&ring=9DA7C2&fire=C9D1D9&currStreakLabel=C9D1D9&sideLabels=9DA7C2&dates=7E879F" alt="GitHub contribution streak" />
+
+</div>
+
+## `06 // ESTABLISH CONNECTION`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-archnemesis69-171923?style=for-the-badge&logo=github&logoColor=white)](https://github.com/archnemesis69)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Archnemesis69&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  
-  **Thanks for stopping by! Let's create something amazing together! 🚀**
+
+```text
+       .  *       .       *       .
+   *       THE JOURNEY CONTINUES       *
+       .       .       *       .
+
+       [ KEEP LEARNING ] [ KEEP BUILDING ]
+
+              END OF TRANSMISSION
+```
+
+<sub>Inspired by the atmosphere of Bleach's Hueco Mundo · Built with Markdown and pixels</sub>
+
 </div>
